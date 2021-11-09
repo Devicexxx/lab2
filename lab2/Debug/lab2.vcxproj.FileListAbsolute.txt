@@ -1,0 +1,3 @@
+D:\проги c++\++\Крыло\v2\lab2\lab2\Debug\lab2.vcxproj.AssemblyReference.cache
+D:\проги c++\++\Крыло\v2\lab2\lab2\Debug\lab2.MyForm.resources
+D:\проги c++\++\Крыло\v2\lab2\lab2\Debug\lab2.vcxproj.GenerateResource.cache
